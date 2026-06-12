@@ -3,6 +3,13 @@
 ## AIM:
 To simulate a Full wave Centre Tapped Transformer rectifier circuit and compare the outputs with and without filter:
 ## CIRCUIT DIAGRAM:
+### Full Wave Centre Tapped Transformer Rectifier Without Filter
+<img width="1246" height="980" alt="image" src="https://github.com/user-attachments/assets/3213a873-2217-42e8-88ba-96aa8c37c68b" />
+
+### Full Wave Centre Tapped Transformer Rectifier With Filter
+<img width="1612" height="973" alt="image" src="https://github.com/user-attachments/assets/1de1cd16-adef-44dc-85cd-00322740d271" />
+
+
 
 ## STEPS FOR SIMULATION:
 1.	Open the Ltspice software
@@ -44,5 +51,14 @@ To simulate a Full wave Centre Tapped Transformer rectifier circuit and compare 
 37.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 ## OUTPUT:
+### Full Wave Centre Tapped Transformer Rectifier Without Filter
+<img width="1600" height="950" alt="image" src="https://github.com/user-attachments/assets/35865c81-a1da-408d-8c2e-d2fc25595fd3" />
+
+### Full Wave Centre Tapped Transformer Rectifier With Filter
+<img width="1600" height="950" alt="image" src="https://github.com/user-attachments/assets/04d7c74f-0e18-41fd-a677-50949674b78c" />
+
 
 ## RESULT:
+<img width="1599" height="899" alt="WhatsApp Image 2026-06-12 at 1 38 24 PM" src="https://github.com/user-attachments/assets/5e0706f2-9bd8-4f83-bb79-3de8a0197744" />
+
+
